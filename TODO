@@ -1,0 +1,29 @@
+# IMPORTANT
+`v` before the problem(s) means that the problem(s) ha(s|ve) been solved
+
+# STL algorithms
+- UVa 10107 - What is the Median? (find median of a growing/dynamic 
+list of integers; still solvable with multiple calls of nth element in algorithm)
+- UVa 00146 - ID Codes (next_permutation)
+- UVa 10258 - Contest Scoreboard * (multi-fields sorting, use sort)
+
+# Bitmasking (C++ bitset)
+- UVa 11926 - Multitasking
+
+# Linkedlist
+v - UVa 11988 - Broken Keyboard ... 
+
+# Stack
+- UVa 01062 - Containers * (LA 3752, WorldFinals Tokyo07, simulation
+with stack; maximum answer is 26 stacks; O(n) solution exists)
+
+# Deque and Queue
+- UVa 12207 - This is Your Queue (use both queue and deque)
+- UVa 10172 - The Lonesome Cargo ... * (use both queue and stack)
+
+
+************************
+*Learn more about Heap;*
+************************
+
+- Direct Addressing Table (DAT)
