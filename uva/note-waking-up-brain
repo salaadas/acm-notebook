@@ -1,0 +1,13 @@
+1. Su dung map<char, int> de gan so vao cho tung cai
+2. Luu cac truy van vao mang
+3. Danh dau 3 vi tri da tinh ngu
+4. Lap qua het nhung vi tri con lai, neu vi tri do chua duoc tinh ngu,
+   thi doi chieu voi tat ca nhung cau truy van,
+   truy van nao ma co phan tu con lai da tham roi thi note lai
+   => Neu nhu sau khi doi chieu voi voi cac truy van ma co tong so truy
+      van phu hop >= 3, thi danh dau cai do vo,
+   => Lam nhu vay voi tat ca cac vi tri chua duoc tinh ngu
+5. Note lai cac vi tri duoc danh dau o buoc 4 vao mang da tinh ngu
+6. Neu nhu van con vi tri chua tinh ngu, thi lap lai buoc 4, vi sau buoc 5,
+   da co them vai vi tri tinh ngu roi, nen la co the co them vi tri nua
+7. TUY NHIEN, khi ma khong danh dau duoc nua o buoc 4, co nghia la khong con co the ket noi cac phan tu voi nhau, nen la break la luon
