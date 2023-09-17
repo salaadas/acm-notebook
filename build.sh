@@ -1,10 +1,10 @@
 #!/bin/bash
 
+set -e
+
 RED='\033[1;31m' # Red color
 GREEN='\033[1;32m' # Green color
 NC='\033[0m' # No color
-
-set -e
 
 if [[ $# -eq 0 ]] ; then
     echo -e "${RED}USAGE:${NC} ${GREEN}./build.sh${NC} <file[.cpp|.cc]>"
